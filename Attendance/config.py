@@ -18,4 +18,3 @@ __C.startcol=1
 __C.hour_earn=12
 
 __C.log='log.txt'
-hei=1
